@@ -1,6 +1,6 @@
 # gRPC Test App
 
-This is a simple golang based gRPC application. It implenents a simple api interface defined via Protobuf. The client and the server talk to each other over HTTP/2 and exchange a simple foo-bar message. 
+This is a simple golang based gRPC application. It implenents an api interface defined via Protobuf. The client and the server talk to each other over HTTP/2 and exchange a string foo-bar message. 
 
 # To be done :
 
